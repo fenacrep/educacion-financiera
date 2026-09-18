@@ -4,8 +4,6 @@ const grid=document.getElementById("coopacGrid");
 const select=document.getElementById("coopacSelect");
 const button=document.getElementById("registerCTA");
 const selector=document.getElementById("coopacSelector");
-const destination=document.getElementById("destinationNote");
-const bottomName=document.getElementById("coopacNameBottom");
 
 const participants=Object.entries(data)
   .filter(([,c])=>c.participa)
@@ -36,8 +34,6 @@ function setDisabled(){
   button.href="#";
   button.classList.add("btn-disabled");
   button.setAttribute("aria-disabled","true");
-  destination.hidden=true;
-  bottomName.textContent="";
 }
 
 function setSelected(key){
@@ -46,8 +42,6 @@ function setSelected(key){
   button.href=registrationUrl(c);
   button.classList.remove("btn-disabled");
   button.removeAttribute("aria-disabled");
-  bottomName.textContent=c.nombre;
-  destination.hidden=false;
 }
 
 select.addEventListener("change",()=>setSelected(select.value));
