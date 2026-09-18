@@ -5,7 +5,7 @@ window.COOPACS = {
   etica:{nombre:"COOPAC Ética",subdominio:"etica",participa:false,logo:""},
   tocache:{nombre:"COOPAC Tocache",subdominio:"tocache",participa:false,logo:""},
   inclusiva:{nombre:"COOPAC Inclusiva",subdominio:"inclusiva",participa:false,logo:""},
-  sancristobal:{nombre:"COOPAC San Cristóbal",subdominio:"sancristobal",participa:true,logo:"sancristobal.png"},
+  sancristobal:{nombre:"COOPAC San Cristóbal",subdominio:"sancristobal",participa:true,logo:"assets/coopac/sancristobal.png"},
   norandino:{nombre:"COOPAC Norandino",subdominio:"norandino",participa:true,logo:""},
   servicredit:{nombre:"COOPAC Servicredit",subdominio:"servicredit",participa:true,logo:""},
   sanfranciscodemocupe:{nombre:"COOPAC San Francisco de Mocupe",subdominio:"sanfranciscodemocupe",participa:true,logo:""},
