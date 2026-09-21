@@ -4,7 +4,7 @@ window.COOPACS = {
   mfprisma:{nombre:"COOPAC MF Prisma",subdominio:"mfprisma",participa:false,logo:"assets/coopac/mfprisma.png"},
   etica:{nombre:"COOPAC Ética",subdominio:"etica",participa:false,logo:"assets/coopac/etica.png"},
   tocache:{nombre:"COOPAC Tocache",subdominio:"tocache",participa:false,logo:"assets/coopac/tocache.png"},
-  inclusiva:{nombre:"COOPAC Inclusiva",subdominio:"inclusiva",participa:false,logo:"assets/coopac/inclusiva.png"},
+  inclusiva:{nombre:"COOPAC Inclusiva",subdominio:"inclusiva",participa:true,logo:"assets/coopac/inclusiva.png"},
   sancristobal:{nombre:"COOPAC San Cristóbal",subdominio:"sancristobal",participa:true,logo:"assets/coopac/sancristobal.png"},
   norandino:{nombre:"COOPAC Norandino",subdominio:"norandino",participa:true,logo:"assets/coopac/norandino.png"},
   servicredit:{nombre:"COOPAC Servicredit",subdominio:"servicredit",participa:false,logo:"assets/coopac/servicredit.png"},
