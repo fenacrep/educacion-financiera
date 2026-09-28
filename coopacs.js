@@ -21,7 +21,7 @@ window.COOPACS = {
   amazonas:{nombre:"COOPAC Amazonas",subdominio:"amazonas",participa:false,logo:"assets/coopac/amazonas.png"},
   centrocoop:{nombre:"COOPAC Centrocoop",subdominio:"centrocoop",participa:false,logo:"assets/coopac/centrocoop.png"},
   finansol:{nombre:"COOPAC Finansol",subdominio:"finansol",participa:false,logo:"assets/coopac/finansol.png"},
-  cacil:{nombre:"COOPAC Ilo - CACIL",subdominio:"cacil",participa:false,logo:"assets/coopac/cacil.png"},
+  cacil:{nombre:"COOPAC Ilo - CACIL",subdominio:"cacil",participa:true,logo:"assets/coopac/cacil.png"},
   larehabilitadora:{nombre:"COOPAC La Rehabilitadora",subdominio:"larehabilitadora",participa:false,logo:"assets/coopac/larehabilitadora.png"},
   sanfrancisco:{nombre:"COOPAC San Francisco",subdominio:"sanfrancisco",participa:false,logo:"assets/coopac/sanfrancisco.png"},
   toquepala:{nombre:"COOPAC Toquepala",subdominio:"toquepala",participa:false,logo:"assets/coopac/toquepala.png"}
