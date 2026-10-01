@@ -14,7 +14,7 @@ window.COOPACS = {
   sanfranciscojavier:{nombre:"COOPAC San Francisco Javier",subdominio:"sanfranciscojavier",participa:true,logo:"assets/coopac/sanfranciscojavier.png"},
   laportuaria:{nombre:"COOPAC La Portuaria",subdominio:"laportuaria",participa:false,logo:"assets/coopac/laportuaria.png"},
   santodomingodeguzman:{nombre:"COOPAC Santo Domingo de Guzmán",subdominio:"santodomingodeguzman",participa:false,logo:"assets/coopac/santodomingodeguzman.png"},
-  chiquinquira:{nombre:"COOPAC Chiquinquirá",subdominio:"chiquinquira",participa:false,logo:"assets/coopac/chiquinquira.png"},
+  chiquinquira:{nombre:"COOPAC Chiquinquirá",subdominio:"chiquinquira",participa:true,logo:"assets/coopac/chiquinquira.png"},
   sanhilarion:{nombre:"COOPAC San Hilarión",subdominio:"sanhilarion",participa:true,logo:"assets/coopac/sanhilarion.png"},
   abaco:{nombre:"COOPAC Ábaco",subdominio:"abaco",participa:false,logo:"assets/coopac/abaco.png"},
   fondesurco:{nombre:"COOPAC Fondesurco",subdominio:"fondesurco",participa:false,logo:"assets/coopac/fondesurco.png"},
