@@ -1,7 +1,7 @@
 window.COOPACS = {
   sanisidro:{nombre:"COOPAC San Isidro",subdominio:"sanisidro",participa:true,logo:"assets/coopac/sanisidro.png"},
   crediplata:{nombre:"COOPAC Crediplata",subdominio:"crediplata",participa:false,logo:"assets/coopac/crediplata.png"},
-  mfprisma:{nombre:"COOPAC MF Prisma",subdominio:"mfprisma",participa:false,logo:"assets/coopac/mfprisma.png"},
+  mfprisma:{nombre:"COOPAC MF Prisma",subdominio:"mfprisma",participa:true,logo:"assets/coopac/mfprisma.png"},
   etica:{nombre:"COOPAC Ética",subdominio:"etica",participa:false,logo:"assets/coopac/etica.png"},
   tocache:{nombre:"COOPAC Tocache",subdominio:"tocache",participa:false,logo:"assets/coopac/tocache.png"},
   inclusiva:{nombre:"COOPAC Inclusiva",subdominio:"inclusiva",participa:true,logo:"assets/coopac/inclusiva.png"},
